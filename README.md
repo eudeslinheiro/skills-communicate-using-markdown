@@ -1,5 +1,7 @@
 <header>
 
+#h1
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -22,6 +24,8 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
+
+## Hello
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
